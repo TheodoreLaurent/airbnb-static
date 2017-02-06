@@ -13,3 +13,16 @@
 @import "components/*";
 @import "pages/*";
 @import "vendor/*";
+
+.padded {
+  padding: 100px 0;
+}
+.wrapper-grey {
+  background: $yellow;
+}
+
+.welcome {
+  background-color: $yellow;
+  padding-top: 2px;
+  padding-bottom: 12px;
+}
